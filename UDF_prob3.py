@@ -7,3 +7,5 @@ def create_array(x,y,z,value):
 a=create_array(3,4,5,7)
 for i in range (len(a)):
     print(i+1)
+for r in a[i]:
+    print(r)
